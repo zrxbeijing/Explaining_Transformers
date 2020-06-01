@@ -266,7 +266,7 @@ There could be several same layers in the Encoder. These Layers are called  Enco
 
 We start from the bottom of this figure and follow the green arrow. The data flow first enters into the Encoder module, which consists of several repeated EncoderLayers. 
 
-![The%20annotated%20annotated%20Transformers%20d3782457dbee4fc1b4b99eba722dd5e6/encoder_structure.png](The%20annotated%20annotated%20Transformers%20d3782457dbee4fc1b4b99eba722dd5e6/encoder_structure.png)
+![encoder_structure](encoder_structure.png)
 
 ### EncoderLayer
 
